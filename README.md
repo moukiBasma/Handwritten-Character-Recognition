@@ -36,5 +36,3 @@ CodeAlpha_HandwrittenRecognition/
 *   Deploy the solution as a real-time web application using Streamlit.
 *   Expand language support beyond English to include Arabic, French, and others.
 
----
-MIT License | CodeAlpha Internship Project
